@@ -2,6 +2,6 @@
 
 Este proyecto fue creado solamente utilizando HTML y CSS, ninguna librería extra ha sido utilizada o ningún pre-procesador.
 
-### Este proyecto es completamente responsive!
+### Este proyecto es completamente responsive! Hecho utilizando la tendencia mobile first.
 
-Hecho utilizando la tendencia mobile first.
+Puedes entrar al proyecto [aquí](https://gordex2014.github.io/batatabit-responsive/)
